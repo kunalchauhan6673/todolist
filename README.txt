@@ -5,9 +5,8 @@ The To-Do List website consists of three main files: index.html, style.css, and 
 This file serves as the main HTML structure for the To-Do List application. It includes:
 
 1. External File Linking:
-
-Links to style.css for styling the application.
-Links to script.js for JavaScript functionality.
+*Links to style.css for styling the application.
+*Links to script.js for JavaScript functionality.
 2. HTML Structure:
 
 Contains a div with the class "container" that encompasses the entire application.
