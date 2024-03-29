@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do list</title>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <div class="container">
+        <div class="todo-app">
+            <h2>To-Do List <img src="images/list.gif"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your task here">
+                <button onclick="addTask()">Add</button>
+            </div>
+            <div id="tasks">
+                <p id="pending-task">
+                    You have <span id="count-value">0</span> task(s) to complete.
+                </p>
+            </div>
+            <ul id="list-container">
+                <!-- <li class="checked">task 1</li>
+                <li>task 2</li> -->
+            </ul>
+        </div>
+        <p>Developed by <a id="linkedin" href="https://www.linkedin.com/in/kunal6673/">Kunal
+            Chauhan</a></p>
+     </div>
+<script src="script.js"></script>
+</body>
+</html>
