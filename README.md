@@ -26,11 +26,13 @@ This file contains the styles for the To-Do List application. Key elements inclu
 1. Universal Selector (*):
 
 Resets margins, paddings, sets font family, and box-sizing for all elements.
+
 2.Specific Class and ID Styling:
 
 Styles the "container" and "todo-app" divs for layout and appearance.
 Formats headings, input fields, buttons, list items, etc., with specific classes and IDs.
-Responsive Design:
+
+3.Responsive Design:
 
 Utilizes flexible units and layout techniques to ensure responsiveness across different screen sizes and devices.
 
