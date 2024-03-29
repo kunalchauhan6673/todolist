@@ -1,3 +1,4 @@
+INTRODUCTION 
 The To-Do List website consists of three main files: index.html, style.css, and script.js. Below, I'll provide a breakdown of the elements and functionalities present in each file.
 
 **index.html**:
